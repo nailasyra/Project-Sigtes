@@ -289,7 +289,7 @@
       font-family: 'Playfair Display', serif;
       font-size: clamp(28px, 3.5vw, 44px);
       font-weight: 700;
-      colo:var(--navy-dark);
+      color:var(--navy-dark);
       line-height: 1.2;
     }
     .sec-judul {
